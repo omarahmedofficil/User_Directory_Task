@@ -171,4 +171,3 @@ To add a new migration later: add a new PHP file under `database/migrations/` fo
 Returns full detail for a single user, including nested department info, or a 404 error if not found.
 
 ---
-*This file was generated based on a full analysis of the project's codebase.*
